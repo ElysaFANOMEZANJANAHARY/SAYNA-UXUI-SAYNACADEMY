@@ -1,5 +1,5 @@
 # SAYNA-UXUI-SAYNACADEMY
-Création d'une maquette de Sayna
+Création d'une maquette de Sayna, j'ai pas pu importer le fichier du template de découverte car il est trop volumineux.
 
 Lien du conception du maquette: https://www.figma.com/file/ZpxCRxlXYgfOOZWnQcrdeA/SAYNA-UXUI-SAYNACADEMY?type=design&node-id=0%3A1&mode=design&t=5UmUvCJRj4SnhoB8-1
 
